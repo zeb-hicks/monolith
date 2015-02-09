@@ -1,0 +1,2 @@
+# monolith
+Monolith server framework.

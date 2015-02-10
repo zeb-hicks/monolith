@@ -1,4 +1,7 @@
 {
-    "name": "monolith",
-    "version": "1.0.0"
+  "name": "monolith",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "~4.11.2"
+  }
 }
